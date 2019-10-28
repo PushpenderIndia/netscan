@@ -110,3 +110,17 @@ $ python netscan.py --target 192.168.43.1/24
 Procedure is exactly same for all OS
 
 ## Screenshots:
+
+
+## Contribute
+
+* All Contributors are welcome, this repo needs contributors who will improve this tool to make it best.
+
+## TODO
+
+- [ ] Add New features
+- [ ] Contribute GUI Version
+
+## Contact
+
+singhpushpender250@gmail.com or <a href="https://technowlogy.tk/contact-us">Contact Us</a>
