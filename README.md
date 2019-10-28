@@ -29,3 +29,84 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 
 ### Why would be need a another Network Scanner when there is netdiscover?
 
+Answer is quite simple, it is because that netdiscover is not OS independent like NetScan and it works on linus only.
+This NetScan is purely written in python 3 and hence has no dependencies other that few python modules which can easily installed.
+
+## Main Goal of Developing this tool
+
+There are very few pentesting tools available which are available for windows.
+Developing tools in pure python programming enables us to run that script/tool on any system.
+Hence I decided to develop a tool completely from scratch which can be used as alternative of netdiscover
+
+## Features
+- [x] Works on Windows/Linux/OSx etc
+- [x] Simple, Easy to use
+- [x] Can Even smoothly on Raspberry Pi/Arduino with 512mb ram
+- [x] Good UI
+
+## Tested On
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
+
+[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 8.1 - Pro**
+
+[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 7 - Ultimate**
+
+## Prerequisite
+- [x] Python 3.X
+- [x] Few External Modules
+
+## How To Use in Linux
+```bash
+# Install dependencies 
+$ Install latest python 3.x
+
+# Clone this repository
+$ git clone https://github.com/Technowlogy-Pushpender/netscan.git
+
+# Go into the repository
+$ cd netscan
+
+# Installing dependencies
+$ python -m pip install scapy==2.4.3 pyfiglet
+
+$ chmod +x netscan.py
+$ ./netscan.py  --help    or   python netscan.py --help
+
+# Running Script
+$ python netscan.py -t 192.168.43.1/24
+# OR 
+$ python netscan.py --target 192.168.43.1/24
+
+# NetScan takes IP Address or IP range.
+```
+
+## How To Use in Windows
+```bash
+# Install dependencies 
+$ Install latest python 3.x
+
+# Clone this repository or Download a ZIP
+$ git clone https://github.com/Technowlogy-Pushpender/netscan.git
+
+# Go into the repository
+$ cd netscan
+
+# Installing dependencies
+$ python -m pip install scapy==2.4.3 pyfiglet
+
+$ chmod +x netscan.py
+$ ./netscan.py  --help    or   python netscan.py --help
+
+# Running Script
+$ python netscan.py -t 192.168.43.1/24
+# OR 
+$ python netscan.py --target 192.168.43.1/24
+
+# NetScan takes IP Address or IP range.
+```
+
+## Note
+
+Procedure is exactly same for all OS
+
+## Screenshots:
