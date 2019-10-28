@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/technowlogger/blob/master/img/netscan-logo.png" alt="NetScan Logo"/>
+  <img src="https://github.com/Technowlogy-Pushpender/netscan/blob/master/img/netscan-logo.png" alt="NetScan Logo"/>
 </p>
 
 
