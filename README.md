@@ -41,7 +41,7 @@ Hence I decided to develop a tool completely from scratch which can be used as a
 ## Features
 - [x] Works on Windows/Linux/OSx etc
 - [x] Simple, Easy to use
-- [x] Can Even smoothly on Raspberry Pi/Arduino with 512mb ram
+- [x] Can Even run smoothly on Raspberry Pi/Arduino with 512mb ram
 - [x] Good UI
 
 ## Tested On
@@ -111,6 +111,11 @@ Procedure is exactly same for all OS
 
 ## Screenshots:
 
+#### Getting Help
+![](/img/1.getting_help.PNG)
+
+#### Running netscan.py Script
+![](/img/2.runing_script.PNG)
 
 ## Contribute
 
