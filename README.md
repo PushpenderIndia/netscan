@@ -128,4 +128,10 @@ Procedure is exactly same for all OS
 
 ## Contact
 
-singhpushpender250@gmail.com or <a href="https://technowlogy.tk/contact-us">Contact Us</a>
+singhpushpender250@gmail.com 
+
+## Buy Me A Coffee
+
+* Support my Open Source projects by making Donation, It really motivates me to work on more projects
+* PayPal Address: https://paypal.me/anonyindia
+* PayPal Email: `singhpushpender250@gmail.com`
