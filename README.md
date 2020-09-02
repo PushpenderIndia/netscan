@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/netscan/blob/master/img/netscan-logo.png" width=543 height=175 alt="NetScan Logo"/>
+  <img src="https://github.com/PushpenderIndia/netscan/blob/master/img/netscan-logo.png" width=543 height=175 alt="NetScan Logo"/>
 </p>
 
 
@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/technowhorse/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/technowhorse/releases">
+  <a href="https://github.com/PushpenderIndia/technowhorse/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/technowhorse">
+    <a href="https://github.com/PushpenderIndia/technowhorse">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -61,7 +61,7 @@ Hence I decided to develop a tool completely from scratch which can be used as a
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/Technowlogy-Pushpender/netscan.git
+$ git clone https://github.com/PushpenderIndia/netscan.git
 
 # Go into the repository
 $ cd netscan
@@ -86,7 +86,7 @@ $ python netscan.py --target 192.168.43.1/24
 $ Install latest python 3.x
 
 # Clone this repository or Download a ZIP
-$ git clone https://github.com/Technowlogy-Pushpender/netscan.git
+$ git clone https://github.com/PushpenderIndia/netscan.git
 
 # Go into the repository
 $ cd netscan
@@ -133,5 +133,4 @@ singhpushpender250@gmail.com
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
